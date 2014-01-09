@@ -1,4 +1,18 @@
 HIE_FALL_2013
 =============
 
-Student Projects for HIE Class in Fall 2013
+Student Class Projects for HIE Class in Fall 2013
+
+There are three class projects.
+
+1. Meal/Nutrition Tracker
+
+2. Exercise Tracker
+
+3. Health Information Exchange
+
+Students, 
+Please create your own folder. Then put your code into this repository 
+so that your codes are not mixed up with other group's code.
+
+Please include your presentation slides in your group folder as well.
